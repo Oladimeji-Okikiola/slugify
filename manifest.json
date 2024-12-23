@@ -1,0 +1,22 @@
+{
+    "name": "Slugify App ",
+    "short_name": "Slugify",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "description": "Slugify Your Content",
+    "icons": [
+      {
+        "src": "images/p5.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "images/p5.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
